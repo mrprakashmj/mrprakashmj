@@ -1,7 +1,7 @@
 - 👋 Hi, Prakash
 - 👀 I’m Full stack Web developer
 - 🌱 I’m currently learning different frameworks in web development 
-- 📫 How to reach me ## mrprakashmj@gmail.com ##
+- 📫 How to reach me  mrprakashmj@gmail.com 
 
 
 ## 🌐 Socials:
